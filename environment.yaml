@@ -3,6 +3,12 @@ channels:
   - conda-forge
   - nodefaults
 dependencies:
-  - jupyterlab
+  - jupyterlab>=3
   - scikit-image
   - opencv
+  - matplotlib
+  - ipympl
+  - tqdm
+  # - plotly
+  # - ipywidgets >=7.6
+  # - jupyter-dash
