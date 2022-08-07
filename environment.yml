@@ -1,0 +1,8 @@
+name: crystal-video
+channels: 
+  - conda-forge
+  - nodefaults
+dependencies:
+  - jupyterlab
+  - scikit-image
+  - opencv
